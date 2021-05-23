@@ -1,6 +1,5 @@
 # Spring Boot Services
-### More specifically just to make Rest APIs and connect to Database and perform operations :grin:
-~ Based on a YouTube playlist from [LearnCodeWithDurgesh](https://youtube.com/playlist?list=PL0zysOflRCekYnhLjQGwpdJYzr38QXdhl)
+#### More specifically just to make Rest APIs and connect to Database and perform operations. Based on a YouTube playlist from [LearnCodeWithDurgesh](https://youtube.com/playlist?list=PL0zysOflRCekYnhLjQGwpdJYzr38QXdhl) :grin:
 
 ## Layer Representation 
 REQUEST / RESPONSE :left_right_arrow: Presentation LAYER / Controllers :left_right_arrow: Services LAYER :left_right_arrow: Dao / Repository LAYER :left_right_arrow: DATABASE
