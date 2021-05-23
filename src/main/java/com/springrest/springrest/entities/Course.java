@@ -1,7 +1,14 @@
 package com.springrest.springrest.entities;
 
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
+// So that Hibernate can consider this as an entity
+@Entity
 public class Course {
 
+	// To show Hibernate that id is the Primary Key
+	@Id
 	private long id;
 	private String title;
 	private String description;
